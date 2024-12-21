@@ -1,7 +1,5 @@
 "use client";
 
-import TransitionWrapper from "@/app/TransitionWrapper";
-
 export default function LearnMore() {
     return (
             <div
