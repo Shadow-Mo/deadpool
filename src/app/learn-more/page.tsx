@@ -1,5 +1,6 @@
 "use client";
 
+
 export default function LearnMore() {
     return (
             <div
@@ -14,12 +15,12 @@ export default function LearnMore() {
 
                 {/* Left Deadpool Image */}
                 <div className="absolute left-0 bottom-0 h-[80vh] w-fit flex items-center justify-center transform transition-all duration-500 ease-in-out slide-in-left">
-                    <img src="/png-left.png" alt="Deadpool Standing" className="h-full object-contain" />
+                    <img src="/PNG-LEFT.png" alt="Deadpool Standing" className="h-full object-contain" />
                 </div>
 
                 {/* Right Deadpool Image */}
                 <div className="absolute right-0 bottom-0 h-[50vh] w-fit flex items-center justify-center transform transition-all duration-500 ease-in-out slide-in-right">
-                    <img src="/png-right.png" alt="Deadpool Sleeping" className="h-full object-contain" />
+                    <img src="/PNG-RIGHT.png" alt="Deadpool Sleeping" className="h-full object-contain" />
                 </div>
 
                 {/* Text Section with Card */}
